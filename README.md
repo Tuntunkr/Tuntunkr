@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuntunkr</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [dotinurdu.com](https://dotinurdu.com/)
+- 🔭 I’m currently working on [dotinurdu.com](https://dotevent.co/)
 
 - 🌱 I’m currently learning **React js**
 
