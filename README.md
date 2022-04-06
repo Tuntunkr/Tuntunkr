@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuntunkr</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [dotinurdu.com](https://dotevent.co/)
+- 🔭 I’m currently working on [polkacal.com](https://dotevent.co/)
 
 - 🌱 I’m currently learning **React js**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [holaquiz](https://hola-quiz-server.herokuapp.com/)
 
-- 📝 I regularly write articles on [https://er-tuntun.blogspot.com/](https://er-tuntun.blogspot.com/)
+- 📝 My Portfolio  [https://quizzical-gates-b684e6.netlify.app](https://quizzical-gates-b684e6.netlify.app)
 
 - 💬 Ask me about **React ,Node js**
 
