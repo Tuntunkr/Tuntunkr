@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tuntunkr</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+<a href="https://app.daily.dev/Tuntun"><img src="https://api.daily.dev/devcards/7025e355ae4b4f98b26529d1081d5307.png?r=e7r" width="400" alt="Er Tuntun yadav's Dev Card"/></a>
 - 🔭 I’m currently working on [polkacal.com](https://dotevent.co/)
 
 - 🌱 I’m currently learning **React js**
@@ -14,7 +15,6 @@
 - 💬 Ask me about **React ,Node js**
 
 - 📫 How to reach me **tuntunkumar04051998@gmail.com**
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://api.daily.dev/devcards/b2a0b896ef724e68a2364c727e8e9e6e.png?r=20z" width="400" alt="Chris Bongers's Dev Card"/></a>
 
 
 - ⚡ Fun fact **I Think I m Funy**
