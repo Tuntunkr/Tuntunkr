@@ -2,13 +2,11 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-- 🔭 I’m currently working on [polkacal.com](https://dotevent.co/)
+- 🔭 I’m currently working on [shipclues]((https://shipclues.com/))
 
 - 🌱 I’m currently learning **React js**
 
-- 👯 I’m looking to collaborate on [Internshala.com](https://internshala.com/)
-
-- 🤝 I’m looking for help with [holaquiz](https://hola-quiz-server.herokuapp.com/)
+- 👯 I’m looking to collaborate on [wisesama](/https://wisesama.netlify.app/)
 
 - 📝 My Portfolio  [https://quizzical-gates-b684e6.netlify.app](https://quizzical-gates-b684e6.netlify.app)
 
