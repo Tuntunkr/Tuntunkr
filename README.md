@@ -1,6 +1,6 @@
 👋 Hi there! I'm Tuntun, a frontend developer with over 3 years of experience specializing in cryptocurrency and B2B business applications. I enjoy crafting responsive websites and landing pages that enhance user experiences. Check out my projects to see how I bring ideas to life!
 
-Check out my projects and portfolio at tuntunwork.netlify.app!
+Check out my projects and portfolio at :-  https://tuntunwork.netlify.app/
 
 
 ## 🌐 Socials:
