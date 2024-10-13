@@ -1,3 +1,7 @@
+👋 Hi there! I'm Tuntun, a frontend developer with over 3 years of experience specializing in cryptocurrency and B2B business applications. I enjoy crafting responsive websites and landing pages that enhance user experiences. Check out my projects to see how I bring ideas to life!
+
+Check out my projects and portfolio at tuntunwork.netlify.app!
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Tuntunkr) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Er tuntun yadav) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/er_tuntun_yadav) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tuntun yadav) 
