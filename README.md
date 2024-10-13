@@ -58,11 +58,6 @@ And many more!
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
-## Current GitHub Stats 📊
-![Stats](https://github-readme-stats.vercel.app/api?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true)
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishwagauravin&show_icons=true&hide_border=false&theme=jolly&count_private=true&include_all_commits=true&layout=compact)
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Tuntunkr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Tuntunkr&theme=dark&hide_border=false)<br/>
