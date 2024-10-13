@@ -20,7 +20,6 @@ Check out my projects and portfolio at: [tuntunwork.netlify.app](https://tuntunw
 Here are some of my notable projects:
 
 ### 🌐 Creation 👨‍💻
-
 - **[YTMP: YouTube Music Player](https://ytmp.itsvg.in)**: The first YouTube Music Player that lets you play any YouTube video as audio with tons of features.
 - **[Visit Count Pro](https://visitcount.itsvg.in)**: A customizable visit counter with real-time analytics.
 - **[GPRM: GitHub Profile ReadMe Maker](https://gprm.itsvg.in)**: Create your perfect GitHub Profile ReadMe effortlessly.
@@ -64,5 +63,6 @@ And many more!
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntunkr&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tuntunkr&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## Thanks for Visiting my GitHub Profile!
+[![](https://visitcount.itsvg.in/api?id=Tuntunkr&icon=0&color=0)](https://visitcount.itsvg.in)
