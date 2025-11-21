@@ -80,25 +80,12 @@ Workflow automation with:
 
 ---
 
-## 📈 GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=Tuntunkr&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Tuntunkr&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tuntunkr&theme=dark&layout=compact)
-
----
-
 ## 🔗 Socials  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ertuntun)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/er_tuntun_yadav)
 [![Twitter](https://img.shields.io/badge/X-000000?logo=x&logoColor=white)](https://twitter.com/ErTuntunkrYadav)
 [![Facebook](https://img.shields.io/badge/Facebook-1877f2?logo=facebook&logoColor=white)](https://facebook.com/ErTuntunYadav)
 
----
-
-## 🐍 GitHub Contribution Snake  
-<p align="center">
-<img src="https://github.com/VishwaGauravIn/VishwaGauravIn/blob/output/github-contribution-grid-snake-dark.svg">
-</p>
 
 ---
 
